@@ -1,0 +1,41 @@
+{
+    "contract": "imdb",
+    "timestamp": "2026-07-13T09:54:02.482524",
+    "results": {
+        "no_nulls": {
+            "passed": true,
+            "severity": "error",
+            "details": "Liczba nulli: 0"
+        },
+        "labels_in_set": {
+            "passed": true,
+            "severity": "error",
+            "details": "Niepoprawne labele: 0"
+        },
+        "min_word_count": {
+            "passed": true,
+            "severity": "warning",
+            "details": "Recenzje ponizej 5 slow: 0"
+        },
+        "max_word_count": {
+            "passed": true,
+            "severity": "warning",
+            "details": "Recenzje powyzej 2000 slow: 0"
+        },
+        "no_duplicates": {
+            "passed": true,
+            "severity": "warning",
+            "details": "Liczba duplikatow: 0"
+        },
+        "class_balance": {
+            "passed": true,
+            "severity": "warning",
+            "details": "Stosunek klas: 1.000"
+        },
+        "no_html_tags": {
+            "passed": false,
+            "severity": "warning",
+            "details": "Recenzje z HTML: 1189"
+        }
+    }
+}
