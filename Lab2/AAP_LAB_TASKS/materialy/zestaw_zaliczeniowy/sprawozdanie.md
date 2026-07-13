@@ -1,5 +1,3 @@
-# Sprawozdanie AAP
-
 ## Zadanie 1
 
 W tym zadaniu zrobilem dwa dekoratory
