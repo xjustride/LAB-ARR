@@ -1,6 +1,6 @@
 {
     "contract": "imdb",
-    "timestamp": "2026-07-13T11:00:54.874584",
+    "timestamp": "2026-07-13T11:57:12.936432",
     "results": {
         "no_nulls": {
             "passed": true,
