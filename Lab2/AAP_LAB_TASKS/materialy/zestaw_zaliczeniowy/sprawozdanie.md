@@ -102,4 +102,4 @@ Wszystkie zadania zostaly wykonane
 
 Kod dziala w Jupyter Notebook
 
-W czasie pracy uzylem dekoratorow testow SQLite PySpark i walidacji danych
+
